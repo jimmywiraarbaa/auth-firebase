@@ -3,3 +3,4 @@ frontend/src/.env
 
 # Backend
 backend/src/.env
+backend/src/services/serviceAccountKey.json
